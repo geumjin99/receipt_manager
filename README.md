@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🧾 영수증 관리기 (Receipt Manager)
 
 연구실 내 영수증 정리를 자동화하는 간단한 Python & Jupyter 도구입니다.  
