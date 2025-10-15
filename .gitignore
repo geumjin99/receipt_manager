@@ -1,0 +1,19 @@
+# === Virtual environment ===
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# === Jupyter checkpoints ===
+.ipynb_checkpoints/
+
+# === Output / temporary files ===
+receipts_summary.xlsx
+expense_by_date.png
+expense_by_person.png
+
+# === Sensitive lab data ===
+example_receipts/
+
+# === macOS system files ===
+.DS_Store
